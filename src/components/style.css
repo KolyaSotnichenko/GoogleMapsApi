@@ -1,0 +1,9 @@
+.dropdown{
+    width: 400px;
+    margin: auto;
+    text-align: left;
+}
+
+.droplist {
+    list-style-type: none;
+}
